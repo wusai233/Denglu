@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Title_bar">
+        <!--标题文字 字体大小 颜色-->
+        <attr name="titleText" format="string" />
+        <attr name="titleTextSize" format="dimension" />
+        <attr name="titleColor" format="color" />
+
+        <!--标题文字 字体大小 字体颜色-->
+        <attr name="leftimg" format="reference|color" />
+        <attr name="leftimgSize" format="dimension" />
+
+    </declare-styleable>
+</resources>
